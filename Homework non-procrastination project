@@ -1,0 +1,24 @@
+project idea: A things that is able to remind me, or get me to do my homework, and not put it off.
+
+some sort of input into a device that annoyes me enough to do my homework (current idea; something like a keycard)
+
+Flowchart: 
+
+use code to code a machine
+signal gets sent out, if not, machine checks to see if a code was sent out
+machine does something(idk yet), if not, the code refreshes
+some sort of counter singal is sent out when something is done, in case it's not the original signal will have a counter code that will turn off the orignal signal after a certain time delay
+stops action of machine untill told again, or some sort of time-out feature
+
+Learning list: idk yet 
+some sort of signaling code
+hardware programming
+any sort of code needed (python, C/C++ java. ect.)
+imports/signaling code
+
+
+
+tasklists:
+
+get something to get a sensory output
+don't know what the signal/processor going to be 
